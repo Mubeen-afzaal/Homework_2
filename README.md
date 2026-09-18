@@ -65,11 +65,17 @@ Merge sort Result:
 [4, 8, 12, 17, 24, 29, 35, 42, 51, 63, 76, 90]
 
 Linear Search Result:
-Target: 35
-Target found at index 8
+Target: 17
+Target found at index 1
+Target: 90
+Target found at index 10
+Target: 105
+Target not found
 
 Binary Search Result:
-Target: 35
-Target found at index 6
-
-
+Target: 8
+Target found at index 1
+Target: 90
+Target found at index 11
+Target: 105
+Target not found
